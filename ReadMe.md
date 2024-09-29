@@ -27,3 +27,11 @@
     - Space Complexity 
         - Average Case O(1)
         - Worst Case   O(1)
+
+# Merge Sort 
+    - Time Complexity
+        - Average Case O(n*log(n))
+        - Worst Case : O(n*log(n))
+    - Space Complexity 
+        - Average Case O(n)
+        - Worst Case   O(n)
