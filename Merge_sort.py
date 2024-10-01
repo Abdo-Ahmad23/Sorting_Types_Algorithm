@@ -11,7 +11,7 @@ class MergeSortAsc():
 
         return MergeSortAsc.merge(left_sorted, right_sorted)
 
-    def merge(left:int, right:int):
+    def merge(left:list, right:list):
         sorted_array=list()
         i=j=0
 
